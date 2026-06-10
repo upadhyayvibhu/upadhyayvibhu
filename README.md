@@ -45,9 +45,3 @@ public:
 
 
 ---
-
-## 🌐 Connect With Me
-
-- LinkedIn
-- Portfolio
-- GitHub
