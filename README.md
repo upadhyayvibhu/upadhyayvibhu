@@ -18,8 +18,6 @@ public:
         "TypeScript",
         "SQL Server",
         "PostgreSQL",
-        "Docker",
-        "Azure"
     };
 
     vector<string> interests =
@@ -33,10 +31,7 @@ public:
 
     void currentFocus()
     {
-        cout << "Building Life RPG";
-        cout << "Learning AI Agents & MCP";
-        cout << "Exploring Monorepo Architecture";
-        cout << "Preparing for Software Engineering Roles";
+        cout << "Learning NextJS";
     }
 };
 ```
